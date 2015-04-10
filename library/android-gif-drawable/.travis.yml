@@ -1,0 +1,34 @@
+#branches:
+#  except:
+#    - dev
+language:
+  - android
+jdk:
+  - oraclejdk8
+android:
+  components:
+    - build-tools-21.1.1
+    - android-21
+
+before_script:
+  - sudo service postgresql stop || true
+  - sudo service mysql stop || true
+  - sudo service memcached stop || true
+  - sudo service bootlogd stop || true
+  - sudo service elasticsearch stop || true
+  - sudo service mongodb stop || true
+  - sudo service neo4j stop || true
+  - sudo service cassandra stop || true
+  - sudo service riak stop || true
+  - sudo service rsync stop || true
+  - sudo service x11-common stop || true
+
+before_install:
+  - wget http://dl.google.com/android/ndk/android-ndk-r10d-linux-x86_64.bin
+  - chmod +x android-ndk-r10d-linux-x86_64.bin
+  - ./android-ndk-r10d-linux-x86_64.bin | egrep -v ^Extracting
+  - export ANDROID_NDK_HOME=`pwd`/android-ndk-r10d
+  - export PATH=${PATH}:${ANDROID_NDK_HOME}
+
+script:
+  - ./gradlew build --info

@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.fancysherry.todolist.Inbox.Today_InputPage">
+
+    <LinearLayout
+        android:id="@+id/today_input_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#11406c"
+        android:layout_alignParentBottom="true"
+        android:padding="8dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/today_input_editText"
+            android:layout_width="260dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:paddingLeft="10dp"/>
+
+        <Button
+            android:id="@+id/today_input_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/add"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:padding="14dp"
+        android:orientation="horizontal"
+        android:layout_above="@id/today_input_layout"
+        >
+
+        <ImageView
+            android:id="@+id/today_color_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/history_one"
+            android:layout_weight="1"
+            android:layout_marginTop="170dp"
+
+
+            />
+        <ImageView
+            android:id="@+id/today_color_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/three"
+            android:layout_marginTop="170dp"
+            android:layout_weight="1"
+            />
+        <ImageView
+            android:id="@+id/today_color_five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/five"
+            android:layout_marginTop="170dp"
+            android:layout_weight="1"
+            />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog_arrays">
+        <item>心得及总结</item>
+        <item>查看心得</item>
+        <item>设置时间</item>
+    </string-array>
+</resources>

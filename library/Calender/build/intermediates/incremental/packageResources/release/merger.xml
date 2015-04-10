@@ -1,0 +1,4445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger
+    version="2"
+    xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
+
+    <dataSet config="main" >
+        <source path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res" >
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-mn-rMN/strings.xml"
+                qualifiers="mn-rMN" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Өдрүүдийг сараар"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Сар болон өдрийг сонгоно уу"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Цаг гүйлгэгч"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> сонгогдсон"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Цаг сонгоно уу"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Минут сонгоно уу"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Жилийг сонгоно уу"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Жилийн жагсаалт"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Дууссан"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Минут гүйлгэгч"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> устсан"
+                </string>
+            </file>
+            <file
+                name="done_background_color"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/drawable-v19/done_background_color.xml"
+                qualifiers="v19"
+                type="drawable" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-sw600dp-land/dimens.xml"
+                qualifiers="sw600dp-land-v13" >
+                <dimen name="time_label_size" >64sp
+                </dimen>
+                <dimen name="ampm_label_size" >21sp
+                </dimen>
+                <dimen name="left_side_width" >315dip
+                </dimen>
+                <dimen name="time_label_right_padding" >16sp
+                </dimen>
+                <dimen name="date_picker_header_height" >45dp
+                </dimen>
+                <dimen name="header_height" >96dip
+                </dimen>
+                <dimen name="ampm_left_padding" >7dip
+                </dimen>
+                <dimen name="separator_padding" >5dip
+                </dimen>
+                <dimen name="footer_height" >48dip
+                </dimen>
+            </file>
+            <file
+                name="done_background_color_dark"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/drawable/done_background_color_dark.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="done_background_color"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/drawable/done_background_color.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-pl/strings.xml"
+                qualifiers="pl" >
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Wybierz godziny"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Gotowe"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Kołowy suwak godzin"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Wybierz minuty"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Wybrałeś 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> usunięte"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Kołowy suwak minut"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Lista lat"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Siatka miesięczna z dniami"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Wybierz miesiąc i dzień"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Wybierz rok"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-hu/strings.xml"
+                qualifiers="hu" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Napok havi leosztásban"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"óra kör alakú csúszkája"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Évek listája"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"perc kör alakú csúszkája"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Óra kiválasztása"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Válassza ki az évet"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Perc kiválasztása"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Válassza ki a hónapot és a napot"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> kiválasztva"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"A(z) 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> érték törölve"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Kész"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-tl/strings.xml"
+                qualifiers="tl" >
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Listahan ng taon"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Pabilog na slider ng mga minuto"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Napili ang 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Grid ng mga araw ayon sa buwan"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Pumili ng mga oras"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Pumili ng taon"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Pabilog na slider ng mga oras"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Pumili ng mga minuto"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Tapos na"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Tinanggal ang 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Pumili ng buwan at araw"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-land/dimens.xml"
+                qualifiers="land" >
+                <dimen name="selected_date_day_size" >100dp
+                </dimen>
+                <dimen name="selected_date_month_size" >30dp
+                </dimen>
+                <dimen name="left_side_width" >250dip
+                </dimen>
+                <dimen name="dialog_height" >200dip
+                </dimen>
+                <dimen name="selected_date_year_size" >30dp
+                </dimen>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-te-rIN/strings.xml"
+                qualifiers="te-rIN" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> తొలగించబడింది"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"సంవత్సరాన్ని ఎంచుకోండి"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"పూర్తయింది"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"నెల మరియు రోజును ఎంచుకోండి"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"రోజుల యొక్క నెల గ్రిడ్"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"సంవత్సర జాబితా"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ఎంచుకోబడింది"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"నిమిషాలను ఎంచుకోండి"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"నిమిషాల వృత్తాకార స్లయిడర్"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"గంటల వృత్తాకార స్లయిడర్"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"గంటలను ఎంచుకోండి"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ta-rIN/strings.xml"
+                qualifiers="ta-rIN" >
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> தேர்ந்தெடுக்கப்பட்டது"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"நாட்களின் மாதக் கட்டம்"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> நீக்கப்பட்டது"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"மாதம் மற்றும் தேதியைத் தேர்ந்தெடுக்கவும்"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"ஆண்டைத் தேர்ந்தெடுக்கவும்"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"நிமிடத்தைத் தேர்ந்தெடுக்கவும்"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"நிமிடத்திற்கான வட்டவடிவ ஸ்லைடர்"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"மணிநேர வட்ட வடிவ ஸ்லைடர்"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"மணிநேரத்தைத் தேர்ந்தெடுக்கவும்"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"முடிந்தது"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"ஆண்டு பட்டியல்"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-mk-rMK/strings.xml"
+                qualifiers="mk-rMK" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Месец со денови"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Список со години"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Приказ на минути во круг"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Избрано: 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Избери минути"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Избери година"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Готово"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Избришано: 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Избери часови"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Избери месец и ден"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Приказ на часови во круг"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-sr/strings.xml"
+                qualifiers="sr" >
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Листа година"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Избрисали сте 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Готово"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Ставка 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> је изабрана"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Приказ дана у месецу у виду мреже"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Кружни клизач за сате"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Изабери сате"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Изаберите месец и дан"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Изаберите годину"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Кружни клизач за минуте"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Изабери минуте"
+                </string>
+            </file>
+            <file
+                name="date_picker_fragment"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout-w270dp-h560dp/date_picker_fragment.xml"
+                qualifiers="w270dp-h560dp-v13"
+                type="layout" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-af/strings.xml"
+                qualifiers="af" >
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Kies maand en dag"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Klaar"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Maandrooster van dae"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> uitgevee"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Jaarlys"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Minute se sirkelglyer"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Ure se sirkelglyer"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Kies jaar"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Kies minute"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> gekies"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Kies ure"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-sk/strings.xml"
+                qualifiers="sk" >
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Hotovo"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Vyberte mesiac a deň"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Kruhový posúvač hodín"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Tabuľka dní v mesiaci"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Vyberte minúty"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Zoznam rokov"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Vyberte rok"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Kruhový posúvač minút"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Vyberte hodiny"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Bola vybratá položka 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> odstránené"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-lt/strings.xml"
+                qualifiers="lt" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Apskritas valandų slankiklis"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Pasirinkite metus"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Ištrinta: 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Apskritas minučių slankiklis"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Pasirinkite valandas"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Elementas „
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>“ pasirinktas"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Pasirinkite minutes"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Metų sąrašas"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Pasirinkite mėnesį ir dieną"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Atlikta"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Mėnesio dienų tinklelis"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-si-rLK/strings.xml"
+                qualifiers="si-rLK" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"පැය කවාකාර සර්පනය"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"පැය තෝරන්න"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> මකා දමන ලදි"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"අවසන්"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"වසර තෝරන්න"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"මිනිත්තු කවාකාර සර්පනය"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"මාසය සහ දිනය තෝරන්න"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> තෝරාගෙන ඇත"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"වසර ලැයිස්තුව"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"මිනිත්තු තෝරන්න"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"දින ජාලයකින් මාසය"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-kn-rIN/strings.xml"
+                qualifiers="kn-rIN" >
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"ಮುಗಿದಿದೆ"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"ದಿನಗಳ ತಿಂಗಳಿನ ಗ್ರಿಡ್"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"ನಿಮಿಷಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"ವರ್ಷದ ಪಟ್ಟಿ"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> ಅಳಿಸಲಾಗಿದೆ"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"ಗಂಟೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"ಗಂಟೆಗಳ ವೃತ್ತಾಕಾರ ಸ್ಲೈಡರ್"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"ನಿಮಿಷಗಳ ವೃತ್ತಾಕಾರ ಸ್ಲೈಡರ್"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"ತಿಂಗಳು ಮತ್ತು ದಿನವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-cs/strings.xml"
+                qualifiers="cs" >
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Zvolte hodiny"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Dny uspořádané po měsících"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Vyberte rok"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Kruhový posuvník hodin"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Hotovo"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> smazáno"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Zvolte minuty"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Kruhový posuvník minut"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Seznam roků"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Vyberte měsíc a den"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Vybrána položka 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+            </file>
+            <file
+                name="year_label_text_view"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/year_label_text_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="date_picker_dialog"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/date_picker_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="date_picker_view_animator"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/date_picker_view_animator.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="date_picker_fragment"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/date_picker_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="date_picker_done_button"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/date_picker_done_button.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="date_picker_selected_date"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/date_picker_selected_date.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="time_header_label"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/time_header_label.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="time_picker_dialog"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout/time_picker_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-pt/strings.xml"
+                qualifiers="pt" >
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> selecionado"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Lista de anos"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Selecione o mês e o dia"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Controle deslizante circular das horas"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> excluído"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Selecione as horas"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Grade mensal de dias"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Controle deslizante circular dos minutos"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Selecione os minutos"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Concluído"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Selecione o ano"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-es/strings.xml"
+                qualifiers="es" >
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Control deslizante circular de minutos"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Cuadrícula mensual de días"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Seleccionar minutos"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Seleccionar mes y día"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Seleccionar horas"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> seleccionado"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Seleccionar año"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Control deslizante circular de horas"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Listo"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> eliminado"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Lista de años"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-am/strings.xml"
+                qualifiers="am" >
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"ወር እና ቀን ይምረጡ"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ተመርጧል"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"ዓመት ይምረጡ"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"ሰዓታትን ምረጥ"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"ደቂቃዎችን ምረጥ"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"የዓመት ዝርዝር"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"የደቂቃዎች ክብ ተንሸራታች"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"የቀናት የወር ፍርግርግ"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> ተሰርዟል"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"ተከናውኗል"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"የሰዓታት ክብ ተንሸራታች"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-sw/strings.xml"
+                qualifiers="sw" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Gridi ya mwezi ya siku"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Nimemaliza"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Chagua mwezi na siku"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Chagua mwaka"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Chagua dakika"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Orodha ya miaka"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> kimechaguliwa"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Kitelezi cha mviringo cha dakika"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Chagua saa"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Kitelezi cha mviringo cha saa"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> kimefutwa"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-uz-rUZ/strings.xml"
+                qualifiers="uz-rUZ" >
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Tayyor"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Yillar ro‘yxati"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Daqiqani tanlash"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Daqiqa ko‘rsatkichli doira"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Yilni tanlash"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Oy kunlari jadvali"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Soatni tanlash"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Soat ko‘rsatkichli doira"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Oy va kunni tanlash"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> tanlandi"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> o‘chirildi"
+                </string>
+            </file>
+            <file
+                name="date_picker_fragment"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout-land/date_picker_fragment.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="time_picker_dialog"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout-land/time_picker_dialog.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-es-rUS/strings.xml"
+                qualifiers="es-rUS" >
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Listo"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Seleccionar mes y día"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Seleccionar año"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> seleccionado"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> borrado"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Seleccionar minutos"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Control deslizante circular de horas"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Control deslizante circular de minutos"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Cuadrícula mensual de días"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Seleccionar horas"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Lista de años"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ms-rMY/strings.xml"
+                qualifiers="ms-rMY" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Grid bulan hari"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Pilih tahun"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Penggelangsar bulatan jam"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Penggelangsar bulatan minit"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Pilih minit"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> dipadamkan"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Selesai"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Pilih jam"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> dipilih"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Senarai tahun"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Pilih bulan dan hari"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-nb/strings.xml"
+                qualifiers="nb" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Sirkulær glidebryter for timer"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Sirkulær glidebryter for minutter"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Ferdig"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Månedsrutenett med dager"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> er valgt"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Angi timer"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Angi minutter"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Årsliste"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> er slettet"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Velg året"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Velg måneden og dagen"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ko/strings.xml"
+                qualifiers="ko" >
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"분 선택"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"월별 바둑판식 날짜 표시"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"년"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> 삭제됨"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"분 원형 슬라이더"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>이(가) 선택됨"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"완료"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"시간 원형 슬라이더"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"시간 선택"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"연도 선택"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"월/일 선택"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-de/strings.xml"
+                qualifiers="de" >
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Jahresliste"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Kreisförmiger Schieberegler für Minuten"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Stunden auswählen"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Fertig"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Monat und Tag auswählen"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Jahr auswählen"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> gelöscht"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Monatsraster mit einzelnen Tagen"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Minuten auswählen"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Kreisförmiger Schieberegler für Stunden"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ausgewählt"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-bg/strings.xml"
+                qualifiers="bg" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Кръгов плъзгач за часовете"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Изтрихте 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Месечна таблица на дните"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Избиране на часове"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Изберете година"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Кръгов плъзгач за минутите"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Списък на годините"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Избиране на минути"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Избрахте 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Готово"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Изберете месец и ден"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-zh-rCN/strings.xml"
+                qualifiers="zh-rCN" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"已删除 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"小时转盘"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"完成"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"选择月份和日期"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"分钟转盘"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"选择分钟"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"选择年份"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"已选择 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"选择小时"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"年份列表"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"按月份划分的日期网格"
+                </string>
+            </file>
+            <file
+                name="done_text_color"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/color/done_text_color.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="date_picker_selector"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/color/date_picker_selector.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="done_text_color_dark"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/color/done_text_color_dark.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="date_picker_year_selector"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/color/date_picker_year_selector.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ja/strings.xml"
+                qualifiers="ja" >
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>を選択しました"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"年リスト"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"日グリッド（月別）"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"完了"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"年を選択"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>を削除しました"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"円形スライダー（時）"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"円形スライダー（分）"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"時間を選択"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"分を選択"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"月と日を選択"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-en-rGB/strings.xml"
+                qualifiers="en-rGB" >
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Select year"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Select hours"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> deleted"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Minutes circular slider"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Hours circular slider"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Done"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Select month and day"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Year list"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> selected"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Month grid of days"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Select minutes"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values/colors.xml"
+                qualifiers="" >
+                <color name="blue_focused" >#c1e8f7
+                </color>
+                <color name="circle_background" >#f2f2f2
+                </color>
+                <color name="ampm_text_color" >#8c8c8c
+                </color>
+                <color name="light_gray" >#404040
+                </color>
+                <color name="done_text_color_dark_normal" >#ffffff
+                </color>
+                <color name="date_picker_text_normal" >#ff999999
+                </color>
+                <color name="red_focused" >#853333
+                </color>
+                <color name="neutral_pressed" >#33999999
+                </color>
+                <color name="my_yellow" >#f3df5e
+                </color>
+                <color name="done_text_color_normal" >#000000
+                </color>
+                <color name="dark_gray" >#363636
+                </color>
+                <color name="done_text_color_dark_disabled" >#888888
+                </color>
+                <color name="done_disabled_dark" >#bfbfbf
+                </color>
+                <color name="numbers_text_color" >#8c8c8c
+                </color>
+                <color name="my_blue" >#2294a2
+                </color>
+                <color name="date_picker_view_animator" >#f2f2f2
+                </color>
+                <color name="darker_blue" >#0099cc
+                </color>
+                <color name="red" >#ff3333
+                </color>
+                <color name="line_dark" >#808080
+                </color>
+                <color name="line_background" >#cccccc
+                </color>
+                <color name="done_text_color_disabled" >#cccccc
+                </color>
+                <color name="calendar_selected_date_text" >#ffd1d2d4
+                </color>
+                <color name="calendar_header" >#999999
+                </color>
+                <color name="blue" >#33b5e5
+                </color>
+                <color name="date_picker_text_disabled" >#ccc
+                </color>
+                <color name="transparent_black" >#7f000000
+                </color>
+                <color name="white" >#ffffff
+                </color>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values/strings.xml"
+                qualifiers="" >
+                <string name="item_is_selected" ><ns1:g
+                        id="item"
+                        example="2013" >
+%1$s
+                    </ns1:g> selected
+                </string>
+                <string name="radial_numbers_typeface" >sans-serif
+                </string>
+                <string name="select_hours" >Select hours
+                </string>
+                <string name="hour_picker_description" >Hours circular slider
+                </string>
+                <string name="time_separator" >:
+                </string>
+                <string name="select_year" >Select year
+                </string>
+                <string name="year_picker_description" >Year list
+                </string>
+                <string name="deleted_key" ><ns1:g
+                        id="key"
+                        example="4" >
+%1$s
+                    </ns1:g> deleted
+                </string>
+                <string name="select_minutes" >Select minutes
+                </string>
+                <string name="done_label" >Done
+                </string>
+                <string name="minute_picker_description" >Minutes circular slider
+                </string>
+                <string name="day_picker_description" >Month grid of days
+                </string>
+                <string name="day_of_week_label_typeface" >sans-serif
+                </string>
+                <string name="time_placeholder" >--
+                </string>
+                <string name="sans_serif" >sans-serif
+                </string>
+                <string name="select_day" >Select month and day
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="day_of_week_label_condensed" />
+
+                <style name="ampm_label" >
+                    <item name="android:textSize">
+@dimen/ampm_label_size
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:textColor">
+@color/ampm_text_color
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                </style>
+
+                <style name="time_label" >
+                    <item name="android:textSize">
+@dimen/time_label_size
+                    </item>
+                    <item name="android:textColor">
+@color/numbers_text_color
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="selected_date_year_size" >30dp
+                </dimen>
+                <dimen name="month_select_circle_radius" >45dp
+                </dimen>
+                <dimen name="month_day_label_text_size" >12sp
+                </dimen>
+
+                <item
+                    name="circle_radius_multiplier"
+                    format="float"
+                    type="string">
+0.82
+                </item>
+
+                <dimen name="day_number_select_circle_radius" >16dp
+                </dimen>
+
+                <item
+                    name="text_size_multiplier_outer"
+                    format="float"
+                    type="string">
+0.11
+                </item>
+                <item
+                    name="numbers_radius_multiplier_normal"
+                    format="float"
+                    type="string">
+0.81
+                </item>
+
+                <dimen name="time_label_size" >60sp
+                </dimen>
+
+                <item
+                    name="text_size_multiplier_inner"
+                    format="float"
+                    type="string">
+0.14
+                </item>
+
+                <dimen name="selected_date_day_size" >75dp
+                </dimen>
+                <dimen name="date_picker_header_height" >30dp
+                </dimen>
+                <dimen name="selected_date_month_size" >30dp
+                </dimen>
+                <dimen name="year_label_height" >64dp
+                </dimen>
+                <dimen name="minimum_margin_sides" >48dip
+                </dimen>
+                <dimen name="date_picker_component_width" >270dp
+                </dimen>
+                <dimen name="year_label_text_size" >22dp
+                </dimen>
+                <dimen name="header_height" >96dip
+                </dimen>
+                <dimen name="month_list_item_header_height" >50dp
+                </dimen>
+                <dimen name="done_button_height" >42dp
+                </dimen>
+                <dimen name="done_label_size" >14sp
+                </dimen>
+
+                <item
+                    name="numbers_radius_multiplier_outer"
+                    format="float"
+                    type="string">
+0.83
+                </item>
+
+                <dimen name="extra_time_label_margin" >-30dp
+                </dimen>
+                <dimen name="day_number_size" >16sp
+                </dimen>
+
+                <item
+                    name="numbers_radius_multiplier_inner"
+                    format="float"
+                    type="string">
+0.60
+                </item>
+
+                <dimen name="separator_padding" >4dip
+                </dimen>
+
+                <item
+                    name="ampm_circle_radius_multiplier"
+                    format="float"
+                    type="string">
+0.19
+                </item>
+                <item
+                    name="text_size_multiplier_normal"
+                    format="float"
+                    type="string">
+0.17
+                </item>
+
+                <dimen name="date_picker_header_text_size" >14dp
+                </dimen>
+                <dimen name="ampm_label_size" >16sp
+                </dimen>
+                <dimen name="month_label_size" >16sp
+                </dimen>
+
+                <item
+                    name="selection_radius_multiplier"
+                    format="float"
+                    type="string">
+0.16
+                </item>
+
+                <dimen name="footer_height" >48dip
+                </dimen>
+                <dimen name="ampm_left_padding" >6dip
+                </dimen>
+
+                <item
+                    name="circle_radius_multiplier_24HourMode"
+                    format="float"
+                    type="string">
+0.85
+                </item>
+
+                <dimen name="date_picker_view_animator_height" >270dp
+                </dimen>
+                <dimen name="minimum_margin_top_bottom" >24dip
+                </dimen>
+                <dimen name="picker_dimen" >270dip
+                </dimen>
+                <dimen name="selected_calendar_layout_height" >155dp
+                </dimen>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-eu-rES/strings.xml"
+                qualifiers="eu-rES" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> ezabatu da"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Hautatu urtea"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Urteen zerrenda"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Hautatu hilabetea eta eguna"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Hautatu orduak"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Eginda"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Ordua aukeratzeko ikuspegi zirkularra"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Minutuak aukeratzeko ikuspegi zirkularra"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Hilabete-ikuspegiko eguna aukeratzeko sareta"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Hautatu minutuak"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> hautatu da"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-fr/strings.xml"
+                qualifiers="fr" >
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Curseur circulaire des minutes"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"\"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>\" supprimé"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Calendrier mensuel sous forme de grille"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Liste des années"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Sélectionner les heures"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Sélectionnez une année"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"OK"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Sélectionnez un mois et un jour"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Sélectionner les minutes"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> sélectionné"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Curseur circulaire des heures"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-hy-rAM/strings.xml"
+                qualifiers="hy-rAM" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Ամսաթվի ընտրության պատուհան"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Կատարված է"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Րոպեների ընտրություն թվատախտակից"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ընտրված"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> ջնջված"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Ընտրեք ժամերը"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Տարիների ցանկը"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Ընտրեք ամիսն ու օրը"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Ընտրեք տարին"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Ընտրեք րոպեները"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Ժամերի ընտրություն թվատախտակից"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ky-rKG/strings.xml"
+                qualifiers="ky-rKG" >
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Жыл тизмеси"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Ай жана күндү тандаңыз"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Мүнөттөрдү тандаңыз"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Аткарылды"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Мүнөт боюнча айлангыч"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Саатты тандаңыз"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Жылды тандаңыз"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Айдын күндөрү"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> тандалды"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> жок кылынды"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Саат боюнча айлангыч"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-el/strings.xml"
+                qualifiers="el" >
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Επιλέχτηκε το στοιχείο 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Κυκλικό ρυθμιστικό λεπτών"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Επιλέξτε λεπτά"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Λίστα ετών"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Επιλογή μήνα και ημέρας"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Τέλος"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Επιλογή έτους"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Κυκλικό ρυθμιστικό ωρών"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Επιλέξτε ώρες"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Πλέγμα ημερών του μήνα"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> διαγράφηκε"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-w270dp-h560dp/dimens.xml"
+                qualifiers="w270dp-h560dp-v13" >
+                <dimen name="selected_date_year_size" >30dp
+                </dimen>
+                <dimen name="selected_date_day_size" >100dp
+                </dimen>
+                <dimen name="selected_calendar_layout_height" >230dp
+                </dimen>
+                <dimen name="selected_date_month_size" >30dp
+                </dimen>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-is-rIS/strings.xml"
+                qualifiers="is-rIS" >
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> valið"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Áralisti"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Valskífa fyrir klukkustundir"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Velja ár"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Lokið"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> eytt"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Valskífa fyrir mínútur"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Mánaðartafla með dögum"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Velja mánuð og dag"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Velja klukkustundir"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Velja mínútur"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-fi/strings.xml"
+                qualifiers="fi" >
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Minuuttien ympyränmuotoinen liukusäädin"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Vuosiluettelo"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> on valittu"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> poistettiin"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Valitse minuutit"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Valitse kuukausi ja päivä"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Valitse vuosi"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Valitse tunnit"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Tuntien ympyränmuotoinen liukusäädin"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Päiväruudukko kuukausittain"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Valmis"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-fa/strings.xml"
+                qualifiers="fa" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"روزهای ماه به صورت جدول"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> حذف شد"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"لغزنده دایره‌ای ساعت"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"سال را انتخاب کنید"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"لغزنده دایره‌ای دقیقه"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"انجام شد"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> انتخاب شد"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"انتخاب دقیقه"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"ماه و روز را انتخاب کنید"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"انتخاب ساعت"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"فهرست سال‌ها"
+                </string>
+            </file>
+            <file
+                name="done_background_color_dark"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/drawable-land/done_background_color_dark.xml"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                name="done_background_color"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/drawable-land/done_background_color.xml"
+                qualifiers="land"
+                type="drawable" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ro/strings.xml"
+                qualifiers="ro" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Indicator circular ore"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Selectați anul"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Selectați orele"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Selectați minutele"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> a fost șters"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Afișare pe luni"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Selectați luna și ziua"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> selectat"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Listă de ani"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Indicator circular minute"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Terminat"
+                </string>
+            </file>
+            <file
+                name="done_background_color"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/drawable-land-v19/done_background_color.xml"
+                qualifiers="land-v19"
+                type="drawable" />
+            <file
+                name="date_picker_fragment"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout-sw600dp/date_picker_fragment.xml"
+                qualifiers="sw600dp-v13"
+                type="layout" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-sl/strings.xml"
+                qualifiers="sl" >
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Izberite minute"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Izberite ure"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Dokončano"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Okrogli drsnik za ure"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Mesečna mreža dni"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Seznam let"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Izberite mesec in dan"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Izberite leto"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Okrogli drsnik za minute"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> je izbrisana"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Izbrano: 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-it/strings.xml"
+                qualifiers="it" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> eliminato"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Dispositivo di scorrimento circolare per le ore"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Griglia del mese suddivisa per giorni"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Seleziona i minuti"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Seleziona le ore"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Seleziona anno"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Elemento selezionato: 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Seleziona mese e giorno"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Elenco degli anni"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Fine"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Dispositivo di scorrimento per i minuti"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-vi/strings.xml"
+                qualifiers="vi" >
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Thanh trượt phút hình tròn"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Chọn phút"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Chọn giờ"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Chọn tháng và ngày"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Thanh trượt giờ hình tròn"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Lưới ngày theo tháng"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Đã chọn 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Đã xóa 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Xong"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Danh sách năm"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Chọn năm"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-et-rEE/strings.xml"
+                qualifiers="et-rEE" >
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Valige aasta"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Ringikujuline minutiliugur"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Päevad kuu ruudustikus"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Valmis"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Tundide valimine"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Aastate loend"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> on valitud"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Valige kuu ja päev"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Ringikujuline tunniliugur"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Minutite valimine"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> on kustutatud"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-fr-rCA/strings.xml"
+                qualifiers="fr-rCA" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Curseur circulaire des heures"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Sélectionnez un mois et un jour"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Terminé"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Calendrier mensuel sous forme de grille"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Liste des années"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"« 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> » a été supprimé"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Sélectionnez les heures"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Sélectionnez une année"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> sélectionné"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Curseur circulaire des minutes"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Sélectionnez les minutes"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-in/strings.xml"
+                qualifiers="in" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Kisi hari pada bulan"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Penggeser putar jam"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Pilih jam"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Daftar tahun"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Penggeser putar menit"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Pilih tahun"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> dihapus"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Pilih bulan dan hari"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> dipilih"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Selesai"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Pilih menit"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-kk-rKZ/strings.xml"
+                qualifiers="kk-rKZ" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> жойылды"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Сағаттардың дөңгелек жүгірткісі"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Минуттардың дөңгелек жүгірткісі"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Орындалды"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Жыл таңдау"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> таңдалды"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Минут таңдау"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Күндердің айлық торы"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Ай мен күнді таңдау"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Жылдар тізімі"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Сағат таңдау"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-pt-rPT/strings.xml"
+                qualifiers="pt-rPT" >
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Selecionar ano"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> selecionado"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Selecionar horas"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Selecionar minutos"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Controlo de deslize circular dos minutos"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Concluído"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Selecionar mês e dia"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Lista de anos"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Grelha de dias do mês"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> eliminado"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Controlo de deslize circular das horas"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp-v13" >
+                <dimen name="date_picker_component_width" >400dp
+                </dimen>
+                <dimen name="ampm_left_padding" >8dip
+                </dimen>
+                <dimen name="separator_padding" >5dip
+                </dimen>
+                <dimen name="day_number_size" >25sp
+                </dimen>
+                <dimen name="month_list_item_header_height" >75dp
+                </dimen>
+                <dimen name="date_picker_view_animator_height" >400dp
+                </dimen>
+                <dimen name="year_label_text_size" >33dp
+                </dimen>
+                <dimen name="month_day_label_text_size" >15sp
+                </dimen>
+                <dimen name="time_label_size" >75sp
+                </dimen>
+                <dimen name="date_picker_header_text_size" >21dp
+                </dimen>
+                <dimen name="extra_time_label_margin" >-50dp
+                </dimen>
+                <dimen name="month_list_item_size" >24sp
+                </dimen>
+                <dimen name="date_picker_header_height" >45dp
+                </dimen>
+                <dimen name="footer_height" >60dip
+                </dimen>
+                <dimen name="header_height" >120dip
+                </dimen>
+                <dimen name="ampm_label_size" >20sp
+                </dimen>
+                <dimen name="month_list_item_padding" >24dp
+                </dimen>
+                <dimen name="day_number_select_circle_radius" >29dp
+                </dimen>
+                <dimen name="selected_date_day_size" >150dp
+                </dimen>
+                <dimen name="month_label_size" >24sp
+                </dimen>
+                <dimen name="selected_calendar_layout_height" >360dp
+                </dimen>
+                <dimen name="month_select_circle_radius" >36dp
+                </dimen>
+                <dimen name="selected_date_month_size" >45dp
+                </dimen>
+                <dimen name="minimum_margin_sides" >48dip
+                </dimen>
+                <dimen name="picker_dimen" >400dip
+                </dimen>
+                <dimen name="selected_date_year_size" >45dp
+                </dimen>
+                <dimen name="year_label_height" >96dp
+                </dimen>
+                <dimen name="minimum_margin_top_bottom" >24dip
+                </dimen>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-zh-rTW/strings.xml"
+                qualifiers="zh-rTW" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"已刪除 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"選取小時數"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"完成"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"年份清單"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"選取年份"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"已選取 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"選取分鐘數"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"分鐘數循環滑桿"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"日期網格 (按月顯示)"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"小時數循環滑桿"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"選取月份和日期"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ml-rIN/strings.xml"
+                qualifiers="ml-rIN" >
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"മിനിറ്റ് തിരഞ്ഞെടുക്കുക"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"ചാക്രികമായി മിനിറ്റുകൾ ദൃശ്യമാകുന്ന സ്ലൈഡർ"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"മാസവും ദിവസവും തിരഞ്ഞെടുക്കുക"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"വർഷം തിരഞ്ഞെടുക്കുക"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"വർഷങ്ങളുടെ ലിസ്റ്റ്"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> ഇല്ലാതാക്കി"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"മണിക്കൂർ തിരഞ്ഞെടുക്കുക"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"ചാക്രികമായി മണിക്കൂറുകൾ ദൃശ്യമാകുന്ന സ്ലൈഡർ"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"മാസപ്രകാരമുള്ള ദിവസ ഗ്രിഡ്"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> തിരഞ്ഞെടുത്തു"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"പൂർത്തിയായി"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-hr/strings.xml"
+                qualifiers="hr" >
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Odaberite mjesec i dan"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Mreža dana u mjesecu"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Odaberite minute"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Popis godina"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Odabrana je stavka 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Gotovo"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Kružni klizač sati"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Odaberite godinu"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Kružni klizač minuta"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Odaberite sate"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Izbrisan je znak 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+            </file>
+            <file
+                name="date_picker_fragment"
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/layout-sw600dp-land/date_picker_fragment.xml"
+                qualifiers="sw600dp-land-v13"
+                type="layout" />
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ar/strings.xml"
+                qualifiers="ar" >
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"تحديد الدقائق"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"شبكة الشهر مكونة من الأيام"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"تم"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"تحديد الشهر واليوم"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"تم تحديد 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"تحديد الساعات"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"شريط التمرير الدائري للساعات"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"تحديد العام"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"تم حذف 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"قائمة الأعوام"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"شريط التمرير الدائري للدقائق"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-my-rMM/strings.xml"
+                qualifiers="my-rMM" >
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"မိနစ် ရွေးစရာ စက်ဝိုင်း"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"လအလိုက် နေ့များ အကွက်"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"ခုနှစ် စာရင်း"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ရွေးထားပြီး"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"နာရီများ ရွေးပါ"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"လ နှင့် နေ့ ရွေးပါ"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"လုပ်ပြီး"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"ခုနှစ်ကို ရွေးပါ"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"မိနစ်များ ရွေးပါ"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> ကို ဖျက်ပြီး"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"နာရီ ရွေးစရာ စက်ဝိုင်း"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-nl/strings.xml"
+                qualifiers="nl" >
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Ronde schuifregelaar voor minuten"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Jaarlijst"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Jaar selecteren"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Minuten selecteren"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> verwijderd"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Maand en dag selecteren"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> geselecteerd"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Maandraster van dagen"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Gereed"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Ronde schuifregelaar voor uren"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Uren selecteren"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ur-rPK/strings.xml"
+                qualifiers="ur-rPK" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"دنوں کا ماہ کا گرڈ"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"ہوگیا"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"مہینہ اور دن منتخب کریں"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"گھنٹے منتخب کریں"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"منٹ کا سرکلر سلائیڈر"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> حذف ہوگیا"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"منٹ منتخب کریں"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"گھنٹوں کا سرکلر سلائیڈر"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"سال کی فہرست"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> منتخب ہوگیا"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"سال منتخب کریں"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-lo-rLA/strings.xml"
+                qualifiers="lo-rLA" >
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"ແລ້ວໆ"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"ຕາຕະລາງວັນທີ"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"ເລືອກເດືອນ ແລະ ວັນ"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ຖືກເລືອກແລ້ວ"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"ໂຕໝຸນປັບຊົ່ວໂມງ"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> ຖືກລຶບແລ້ວ"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"ລາຍການປີ"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"ເລືອກ​ຊົ່ວ​ໂມງ"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"ເລືອກນາ​ທີ"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"ເລືອກ​ປີ"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"ໂຕໝຸນປັບນາທີ"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-gl-rES/strings.xml"
+                qualifiers="gl-rES" >
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Lista de anos"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Control de desprazamento circular dos minutos"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Seleccionar minutos"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Grade mensual de días"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Seleccionar mes e día"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Seleccionouse 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Seleccionar ano"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Eliminouse 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Control de desprazamento circular das horas"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Feito"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Seleccionar horas"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ne-rNP/strings.xml"
+                qualifiers="ne-rNP" >
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"घण्टा चयन गर्नुहोस्"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"सम्पन्न भयो"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"दिनहरुको महिना ग्रिड"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"महिना र दिन चयन गर्नुहोस्"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"वर्ष चयन गर्नुहोस्"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"घण्टा गोलाकार स्लाइडर"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> हटाइयो"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"मिनेट गोलाकार स्लाइडर"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"मिनेट चयन गर्नुहोस्"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"वर्ष सूची"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> चयन गरियो"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ru/strings.xml"
+                qualifiers="ru" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Выбор часов на циферблате"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Готово"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Выберите минуты"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Окно выбора даты"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Выбор минут на циферблате"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Выберите часы"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Выберите месяц и день"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"Цифра 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> удалена"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Выберите год"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Меню выбора года"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Выбран элемент 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-lv/strings.xml"
+                qualifiers="lv" >
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Gatavs"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Atlasiet mēnesi un dienu"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Atlasīts: 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> tika dzēsts"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Stundu apļveida slīdnis"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Minūšu apļveida slīdnis"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Atlasīt minūtes"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Atlasīt stundas"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Atlasiet gadu"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Gadu saraksts"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Režģis ar mēneša dienām"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-bn-rBD/strings.xml"
+                qualifiers="bn-rBD" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"বৃত্তাকার ঘন্টা নির্বাচকের স্লাইডার"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> মুছে ফেলা হয়েছে"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"বছর নির্বাচন করুন"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> নির্বাচন করা হয়েছে"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"সম্পন্ন হয়েছে"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"দিন দিয়ে সংগঠিত মাসের গ্রিড"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"মাস এবং দিন নির্বাচন করুন"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"ঘন্টা নির্বাচন করুন"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"বছরের তালিকা"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"মিনিট নির্বাচন করুন"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"বৃত্তাকার মিনিট নির্বাচকের স্লাইডার"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-v16/strings.xml"
+                qualifiers="v16" >
+                <string name="day_of_week_label_typeface" >sans-serif-light
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-v16/styles.xml"
+                qualifiers="v16" >
+
+                <style name="time_label_thin" >
+                    <item name="android:fontFamily">
+sans-serif-light
+                    </item>
+                </style>
+
+                <style name="day_of_week_label_condensed" >
+                    <item name="android:fontFamily">
+sans-serif-condensed
+                    </item>
+                </style>
+
+                <style name="done_button_light" >
+                    <item name="android:fontFamily">
+sans-serif-light
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-sv/strings.xml"
+                qualifiers="sv" >
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> har markerats"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Klar"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Välj timmar"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Rutnät för månad"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Cirkelreglage för minuter"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Lista över år"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> har tagits bort"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Välj minuter"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Cirkelreglage för timmar"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Välj år"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Välj månad och dag"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-tr/strings.xml"
+                qualifiers="tr" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> silindi"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> seçildi"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Saatler için kaydırma çemberi"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Saat seçin"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Yılı seçin"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Ayın günleri tablosu"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Dakika seçin"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Yıl listesi"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Ayı ve günü seçin"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Bitti"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Dakikalar için kaydırma çemberi"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-mr-rIN/strings.xml"
+                qualifiers="mr-rIN" >
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"मिनिटे परिपत्रक स्लायडर"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"मिनिटे निवडा"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"पूर्ण झाले"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"वर्ष निवडा"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"तास परिपत्रक स्लायडर"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"महिना आणि दिवस निवडा"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> हटविली"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"दिवसांची महिना ग्रिड"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"तास निवडा"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"वर्ष सूची"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> निवडले"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-iw/strings.xml"
+                qualifiers="iw" >
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"בוצע"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"רשימת שנים"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"בחר חודש ויום"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"בחרת 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"בחר דקות"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> נמחק"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"מחוון דקות מעגלי"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"בחירת ימים בחודש בתצוגת רשת"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"בחר שעות"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"בחר שנה"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"מחוון שעות מעגלי"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-km-rKH/strings.xml"
+                qualifiers="km-rKH" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"ក្រឡាចត្រង្គ​ខែ​នៃ​ថ្ងៃ"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"ជ្រើស​ខែ និង​ថ្ងៃ"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"បញ្ជី​ឆ្នាំ"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"ជ្រើស​ឆ្នាំ"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"ជ្រើស​នាទី"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"គ្រាប់​រំកិល​រង្វង់​នាទី"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"គ្រាប់​រំកិល​រង្វង់​ម៉ោង"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"ជ្រើស​ម៉ោង"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"បាន​ជ្រើស 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"បាន​លុប 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"ធ្វើ​រួច"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-da/strings.xml"
+                qualifiers="da" >
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Vælg timer"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Månedsgitter med dage"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Vælg år"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> er slettet"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Færdig"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Vælg måned og dag"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> valgt"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Cirkulær timevælger"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Cirkulær minutvælger"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Vælg minutter"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Liste over år"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-en-rIN/strings.xml"
+                qualifiers="en-rIN" >
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> deleted"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Done"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> selected"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Hours circular slider"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Select year"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Minutes circular slider"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Month grid of days"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Select hours"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Select month and day"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Year list"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Select minutes"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-zh-rHK/strings.xml"
+                qualifiers="zh-rHK" >
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"年份清單"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"已選取
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"日期網格 (按月顯示)"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"分鐘環形滑桿"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"選取小時"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"選取月份和日期"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"完成"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"小時環形滑桿"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"選取分鐘"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"選取年份"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"已刪除 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g>"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ca/strings.xml"
+                qualifiers="ca" >
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Control circular de les hores"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Selecciona els minuts"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> suprimit"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Graella mensual de dies"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Selecciona les hores"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Llista anual"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Selecciona un mes i un dia"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Selecciona un any"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Control circular dels minuts"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Fet"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> seleccionat"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-uk/strings.xml"
+                qualifiers="uk" >
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Дні місяця – ескізи"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> видалено"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Вибір годин на циферблаті"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"Вибрано: 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Вибрати години"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Роки – список"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Виберіть рік"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Готово"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Виберіть місяць і день"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Вибір хвилин на циферблаті"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Вибрати хвилини"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-ka-rGE/strings.xml"
+                qualifiers="ka-rGE" >
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"აირჩიეთ თვე და რიცხვი"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"დასრულდა"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"დღეების ბადე თვეზე"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"წრიული სლაიდერის დამალვა"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"აირჩიეთ საათები"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"არჩეულია 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"აირჩიეთ წუთები"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"წლის სია"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"აირჩიეთ წელი"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"წუთების წრიული სლაიდერი"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> წაიშალა"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-zu/strings.xml"
+                qualifiers="zu" >
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"I-
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> ekhethiwe"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"I-
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> isusiwe"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"Amahora weslayidi esiyindingilizi"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"Khetha unyaka"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"Khetha amahora"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"Kwenziwe"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"Amaminithi weslayidi esiyindingilizi"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"Igridi yenyanga yezinsuku"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"Khetha inyanga nosuku"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"Khetha amaminithi"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"Uhlu lonyaka"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-hi/strings.xml"
+                qualifiers="hi" >
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"घंटे चुनें"
+                </string>
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"वर्ष चुनें"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> को हटा दिया गया"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"दिनों की माह ग्रिड"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"वर्ष की सूची"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"घंटो का चक्राकार स्लाइडर"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"पूर्ण"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"माह और दिन चुनें"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"मिनटों का चक्राकार स्लाइडर"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"मिनट चुनें"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g> चयनित"
+                </string>
+            </file>
+            <file
+                path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-th/strings.xml"
+                qualifiers="th" >
+                <string
+                    name="select_year"
+                    msgid="2603330600102539372" >"เลือกปี"
+                </string>
+                <string
+                    name="select_hours"
+                    msgid="7651068754188418859" >"เลือกชั่วโมง"
+                </string>
+                <string
+                    name="year_picker_description"
+                    msgid="6963340404644587098" >"รายการปี"
+                </string>
+                <string
+                    name="minute_picker_description"
+                    msgid="6024811202872705251" >"ตัวเลื่อนหมุนระบุนาที"
+                </string>
+                <string
+                    name="item_is_selected"
+                    msgid="2674929164900463786" >"เลือก 
+<ns1:g id="ITEM" >
+%1$s
+                    </ns1:g>"
+                </string>
+                <string
+                    name="done_label"
+                    msgid="7007948707597430919" >"เสร็จสิ้น"
+                </string>
+                <string
+                    name="hour_picker_description"
+                    msgid="7586639618712934060" >"ตัวเลื่อนหมุนระบุชั่วโมง"
+                </string>
+                <string
+                    name="day_picker_description"
+                    msgid="3968620852217927702" >"ตารางวันที่ของเดือน"
+                </string>
+                <string
+                    name="select_day"
+                    msgid="3973338219107019769" >"เลือกเดือนและวัน"
+                </string>
+                <string
+                    name="select_minutes"
+                    msgid="8327182090226828481" >"เลือกนาที"
+                </string>
+                <string
+                    name="deleted_key"
+                    msgid="6908431551612331381" >"ลบ 
+<ns1:g id="KEY" >
+%1$s
+                    </ns1:g> แล้ว"
+                </string>
+            </file>
+        </source>
+        <source path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/build/generated/res/rs/release" />
+        <source path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/src/release/res" />
+    </dataSet>
+
+</merger>

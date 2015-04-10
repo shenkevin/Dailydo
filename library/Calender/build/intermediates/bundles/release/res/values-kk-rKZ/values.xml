@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/res/values-kk-rKZ/strings.xml -->
+    <eat-comment />
+
+    <string name="day_picker_description" msgid="3968620852217927702">"Күндердің айлық торы"</string>
+    <string name="deleted_key" msgid="6908431551612331381">"<ns1:g id="KEY">%1$s</ns1:g> жойылды"</string>
+    <string name="done_label" msgid="7007948707597430919">"Орындалды"</string>
+    <string name="hour_picker_description" msgid="7586639618712934060">"Сағаттардың дөңгелек жүгірткісі"</string>
+    <string name="item_is_selected" msgid="2674929164900463786">"<ns1:g id="ITEM">%1$s</ns1:g> таңдалды"</string>
+    <string name="minute_picker_description" msgid="6024811202872705251">"Минуттардың дөңгелек жүгірткісі"</string>
+    <string name="select_day" msgid="3973338219107019769">"Ай мен күнді таңдау"</string>
+    <string name="select_hours" msgid="7651068754188418859">"Сағат таңдау"</string>
+    <string name="select_minutes" msgid="8327182090226828481">"Минут таңдау"</string>
+    <string name="select_year" msgid="2603330600102539372">"Жыл таңдау"</string>
+    <string name="year_picker_description" msgid="6963340404644587098">"Жылдар тізімі"</string>
+
+</resources>

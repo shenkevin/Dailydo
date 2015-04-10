@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:orientation="horizontal"
+        android:background="#ffffff">
+
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:id="@+id/color"
+            android:layout_width="80dp"
+            android:layout_height="75dp"
+            android:background="@drawable/red_egg"
+            android:layout_gravity="center"/>
+
+        <com.daimajia.swipe.SwipeLayout
+            android:id="@+id/swipe_today"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:layout_gravity="center"
+            >
+
+            <RelativeLayout
+                android:layout_gravity="center"
+                android:layout_width="160dp"
+                android:layout_height="85dp"
+
+                >
+
+
+                <Button
+                    android:id="@+id/delete_today"
+                    android:textColor="#FF5534"
+                    android:background="@drawable/today_delete"
+                    android:layout_width="65dp"
+                    android:layout_height="70dp"
+                    android:layout_marginTop="9dp"
+                    android:padding="2dp"
+                    android:layout_alignParentRight="true"
+                    />
+
+
+                <Button
+                    android:id="@+id/to_inbox"
+                    android:background="@drawable/today_transfer"
+                    android:layout_width="65dp"
+                    android:layout_height="70dp"
+                    android:layout_marginTop="9dp"
+                    android:padding="2dp"
+                    android:layout_toLeftOf="@id/delete_today"
+                    />
+
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:layout_gravity="center"
+                >
+                <EditText
+                    android:id="@+id/content_today"
+                    android:layout_width="match_parent"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="80dp"
+                    android:hint="please input"
+                    android:textSize="21dp"
+                    android:layout_gravity="center"
+                    android:textColor="@color/black"
+                    android:maxLength="13"
+                    android:background="#ffffff"
+                    android:singleLine="true"
+                    android:imeOptions="actionDone"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    />
+            </LinearLayout>
+        </com.daimajia.swipe.SwipeLayout>
+
+
+
+    </LinearLayout>

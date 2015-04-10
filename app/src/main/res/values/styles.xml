@@ -1,0 +1,75 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme"/>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+
+
+    <!-- conten add page. -->
+    <style name="transparent">
+    　　<item name="android:windowBackground">@color/transparent</item>
+    　　<item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <!-- inbox_clockset page. -->
+    <style name="inbox_clockset_page" parent="@android:style/Theme.Holo.Light.Dialog.NoActionBar">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:background">@drawable/corner</item><!--dialog背景样式-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+    </style>
+
+
+    <!-- clockset page. -->
+    <style name="popup_dialog_anim" parent="popup_dialog">
+        <item name="android:windowAnimationStyle">@style/dialog_animations</item>
+    </style>
+
+
+    <style name="popup_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item> 	 	<!--Dialog的windowFrame框为无  -->
+        <item name="android:windowIsFloating">true</item>	<!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item><!-- 是否半透明 -->
+        <item name="android:windowNoTitle">true</item>		<!-- 是否显示title -->
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item> <!-- 设置dialog的背景 -->
+        <item name="android:backgroundDimEnabled">true</item>					<!-- 背景是否模糊显示 -->
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+
+    <style name="dialog_animations">
+        <item name="android:windowEnterAnimation">@anim/slide_in_from_bottom</item> <!-- 从下面弹出时的动画 -->
+        <item name="android:windowExitAnimation">@anim/slide_out_from_bottom</item> <!-- 从上面下滑到底部时的动画 -->
+    </style>
+
+
+    <style name="DTP">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="DTP.Label">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="DTP.Button">
+        <item name="android:onClick">onClick</item>
+    </style>
+
+
+</resources>

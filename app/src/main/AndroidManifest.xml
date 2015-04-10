@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fancysherry.todolist" >
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme"
+         >
+        <activity
+            android:name=".MyActivity"
+            android:label=""
+            android:theme="@android:style/Theme.Holo.Light"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Inbox.Inbox_inputpage"
+            android:theme="@style/transparent" >
+        </activity>
+        <activity android:name=".Clock.RemindPage" >
+        </activity>
+        <activity
+            android:name=".Clock.ClockSet"
+            android:launchMode="singleTop"
+            android:theme="@style/popup_dialog_anim"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name=".Inbox.Today_InputPage"
+            android:theme="@style/transparent" >
+        </activity>
+
+        <receiver android:name=".Clock.clockbroadcast" >
+            <intent-filter>
+                <action android:name="action_timer_start" />
+                <action android:name="action_timer_close" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".Clock.clockset_inbox"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.NoActionBar" >
+        </activity>
+        <activity android:name=".Clock.MainActivity" />
+        <activity
+            android:name=".blog.BlogEdit"
+            android:label="@string/title_activity_blog_edit" >
+        </activity>
+    </application>
+
+</manifest>

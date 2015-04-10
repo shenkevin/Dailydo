@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/fancysherry/AndroidStudioProjects/ToDoList/library/Calender/src/release/assets" />
+    </dataSet>
+
+</merger>

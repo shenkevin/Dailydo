@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/todaybackground"
+    tools:context="com.example.fancysherry.todolist.HistoryFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <fragment
+        class="com.android.datetimepicker.date.DatePickerFragment"
+        android:id="@+id/calender"
+        android:layout_width="match_parent"
+        android:layout_height="315dp"
+        android:gravity="center"
+        android:background="@color/date_picker_view_animator" />
+
+    <RelativeLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/calender"
+        android:layout_marginBottom="50dp"
+        >
+     </RelativeLayout>
+
+
+
+
+
+</RelativeLayout>

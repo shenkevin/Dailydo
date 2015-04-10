@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="250dp"
+    android:layout_height="210dp"
+    android:layout_gravity="center"
+    android:background="#ffffff"
+    android:padding="5dp"
+    tools:context="com.example.fancysherry.todolist.Clock.clockset_inbox">
+
+
+
+    <LinearLayout
+        android:id="@+id/clock_set_inbox_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_launcher"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="日期"
+            android:textSize="18dp"
+            android:layout_marginLeft="16dp"
+            android:layout_gravity="center"
+            android:textColor="#57dbeb"/>
+
+        </LinearLayout>
+
+ <View
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:layout_below="@id/clock_set_inbox_title_layout"
+    android:id="@+id/view"
+    android:layout_marginTop="5dp"
+    android:background="#57dbeb"/>
+
+    <DatePicker
+        android:layout_below="@id/view"
+        android:id="@+id/clock_set_inbox"
+        android:layout_width="wrap_content"
+        android:layout_height="130dp"
+        android:calendarViewShown="false"
+        android:headerBackground="#ffffff"
+        android:layout_centerHorizontal="true"
+
+
+        >
+
+        </DatePicker>
+
+    <LinearLayout
+        android:layout_below="@id/clock_set_inbox"
+        android:layout_width="match_parent"
+        android:layout_marginTop="8dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/inbox_clock_cancel"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/inbox_clock_complete"/>
+
+        </LinearLayout>
+
+</RelativeLayout>
